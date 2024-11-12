@@ -11,3 +11,9 @@ The goal is to find the longest common prefix among a set of strings. The initia
 - **Time Complexity**: $$O(S)$$, where $$S$$ is the total number of characters in all strings combined. Each character is checked at most once across all strings, resulting in a linear pass through the characters.
 
 - **Space Complexity**: $$O(1)$$, as we use only a constant amount of additional space (counters and indices). The prefix is modified in place without requiring extra memory.
+
+# Runtime
+0 ms
+
+# Memory Usage
+41.47 MB

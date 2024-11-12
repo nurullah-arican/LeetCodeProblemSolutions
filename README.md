@@ -16,3 +16,7 @@ If you'd like to contribute:
 1. Fork this repository.
 2. Add your own solutions or improve existing ones.
 3. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
